@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="60052" started-at="2020-07-14T15:55:52 CEST" finished-at="2020-07-14T15:56:52 CEST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="60052" started-at="2020-07-14T15:55:52 CEST" finished-at="2020-07-14T15:56:52 CEST">
+      <class name="E2E.QaClick.LoginTest">
+        <test-method status="PASS" signature="open_browser()[pri:0, instance:E2E.QaClick.LoginTest@4d1c00d0]" name="open_browser" is-config="true" duration-ms="8194" started-at="2020-07-14T15:55:52 CEST" finished-at="2020-07-14T15:56:00 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method status="PASS" signature="checktext()[pri:0, instance:E2E.QaClick.LoginTest@4d1c00d0]" name="checktext" duration-ms="742" started-at="2020-07-14T15:56:00 CEST" finished-at="2020-07-14T15:56:01 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checktext -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:E2E.QaClick.LoginTest@4d1c00d0]" name="closebrowser" is-config="true" duration-ms="7666" started-at="2020-07-14T15:56:01 CEST" finished-at="2020-07-14T15:56:09 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="open_browser()[pri:0, instance:E2E.QaClick.LoginTest@4d1c00d0]" name="open_browser" is-config="true" duration-ms="6837" started-at="2020-07-14T15:56:09 CEST" finished-at="2020-07-14T15:56:15 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method status="PASS" signature="clickSignin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:E2E.QaClick.LoginTest@4d1c00d0]" name="clickSignin" duration-ms="2710" started-at="2020-07-14T15:56:15 CEST" data-provider="getdata" finished-at="2020-07-14T15:56:18 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[non-restricted]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test.gunti@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Adi1.vara]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSignin -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:E2E.QaClick.LoginTest@4d1c00d0]" name="closebrowser" is-config="true" duration-ms="3221" started-at="2020-07-14T15:56:18 CEST" finished-at="2020-07-14T15:56:21 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="open_browser()[pri:0, instance:E2E.QaClick.LoginTest@4d1c00d0]" name="open_browser" is-config="true" duration-ms="6784" started-at="2020-07-14T15:56:21 CEST" finished-at="2020-07-14T15:56:28 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method status="PASS" signature="clickSignin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:E2E.QaClick.LoginTest@4d1c00d0]" name="clickSignin" duration-ms="4436" started-at="2020-07-14T15:56:28 CEST" data-provider="getdata" finished-at="2020-07-14T15:56:33 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[restricted]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[soundarya.gunti@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Adi1.vara]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSignin -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:E2E.QaClick.LoginTest@4d1c00d0]" name="closebrowser" is-config="true" duration-ms="7252" started-at="2020-07-14T15:56:33 CEST" finished-at="2020-07-14T15:56:40 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="closedriver()[pri:0, instance:E2E.QaClick.LoginTest@4d1c00d0]" name="closedriver" is-config="true" duration-ms="604" started-at="2020-07-14T15:56:40 CEST" finished-at="2020-07-14T15:56:40 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedriver -->
+      </class> <!-- E2E.QaClick.LoginTest -->
+      <class name="E2E.QaClick.HomeTest">
+        <test-method status="PASS" signature="open_browser()[pri:0, instance:E2E.QaClick.HomeTest@4b2bac3f]" name="open_browser" is-config="true" duration-ms="6678" started-at="2020-07-14T15:56:40 CEST" finished-at="2020-07-14T15:56:47 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method status="PASS" signature="checktabs()[pri:0, instance:E2E.QaClick.HomeTest@4b2bac3f]" name="checktabs" duration-ms="1033" started-at="2020-07-14T15:56:47 CEST" finished-at="2020-07-14T15:56:48 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checktabs -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:E2E.QaClick.HomeTest@4b2bac3f]" name="closebrowser" is-config="true" duration-ms="3815" started-at="2020-07-14T15:56:48 CEST" finished-at="2020-07-14T15:56:52 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- E2E.QaClick.HomeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
