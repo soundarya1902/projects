@@ -1,9 +1,0 @@
-15:52:24.935 [main] DEBUG log4j2.test2log - This is debugging
-15:52:24.942 [main] INFO  log4j2.test2log - This is info
-15:52:24.942 [main] FATAL log4j2.test2log - This is fatal
-15:52:24.942 [main] ERROR log4j2.test2log - This is error
-15:53:17.745 [main] DEBUG log4j2.test2 - This is debugging
-15:53:17.751 [main] INFO  log4j2.test2 - This is info
-15:53:17.751 [main] FATAL log4j2.test2 - This is fatal
-15:53:17.751 [main] ERROR log4j2.test2 - This is error
-15:54:07.937 [main] DEBUG log4j2.test2 - This is debugging
