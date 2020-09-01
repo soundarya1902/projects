@@ -5,7 +5,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28886982-f6b9-453f-bcd0-0aba93961616" name="Default Changelist" comment="changed id" />
+    <list default="true" id="28886982-f6b9-453f-bcd0-0aba93961616" name="Default Changelist" comment="b3 added">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -72,6 +75,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="removed one file" />
@@ -83,10 +87,18 @@
       <screen x="-2560" y="-185" width="2048" height="1112" />
     </state>
     <state x="-2081" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-2560.-185.2048.1112@-2560.-185.2048.1112" timestamp="1598947440824" />
-    <state x="-1755" y="113" key="FileChooserDialogImpl" timestamp="1598947398852">
+    <state x="-1755" y="113" key="FileChooserDialogImpl" timestamp="1598949185018">
       <screen x="-2560" y="-185" width="2048" height="1112" />
     </state>
-    <state x="-1755" y="113" key="FileChooserDialogImpl/0.0.1536.824/-2560.-185.2048.1112@-2560.-185.2048.1112" timestamp="1598947398852" />
+    <state x="-1755" y="113" key="FileChooserDialogImpl/0.0.1536.824/-2560.-185.2048.1112@-2560.-185.2048.1112" timestamp="1598949185018" />
+    <state x="-2157" y="24" key="MergeDialog" timestamp="1598949092439">
+      <screen x="-2560" y="-185" width="2048" height="1112" />
+    </state>
+    <state x="-2157" y="24" key="MergeDialog/0.0.1536.824/-2560.-185.2048.1112@-2560.-185.2048.1112" timestamp="1598949092439" />
+    <state x="-1897" y="133" key="MultipleFileMergeDialog" timestamp="1598949094596">
+      <screen x="-2560" y="-185" width="2048" height="1112" />
+    </state>
+    <state x="-1897" y="133" key="MultipleFileMergeDialog/0.0.1536.824/-2560.-185.2048.1112@-2560.-185.2048.1112" timestamp="1598949094596" />
     <state x="-1943" y="104" key="Vcs.Push.Dialog.v2" timestamp="1598947579357">
       <screen x="-2560" y="-185" width="2048" height="1112" />
     </state>
