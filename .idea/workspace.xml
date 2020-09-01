@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="28886982-f6b9-453f-bcd0-0aba93961616" name="Default Changelist" comment="removed one file">
+      <change beforePath="$PROJECT_DIR$/QaClick/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/QaClick/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProjectId" id="1gtwV66NqlPTRajrNOHyspfq3CI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28886982-f6b9-453f-bcd0-0aba93961616" name="Default Changelist" comment="" />
+      <created>1598947216748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598947216748</updated>
+    </task>
+    <task id="LOCAL-00001" summary="removed one file">
+      <created>1598947304733</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598947304733</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="removed one file" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed one file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-2081" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598947440824">
+      <screen x="-2560" y="-185" width="2048" height="1112" />
+    </state>
+    <state x="-2081" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-2560.-185.2048.1112@-2560.-185.2048.1112" timestamp="1598947440824" />
+    <state x="-1755" y="113" key="FileChooserDialogImpl" timestamp="1598947398852">
+      <screen x="-2560" y="-185" width="2048" height="1112" />
+    </state>
+    <state x="-1755" y="113" key="FileChooserDialogImpl/0.0.1536.824/-2560.-185.2048.1112@-2560.-185.2048.1112" timestamp="1598947398852" />
+    <state x="-1943" y="104" key="Vcs.Push.Dialog.v2" timestamp="1598947371718">
+      <screen x="-2560" y="-185" width="2048" height="1112" />
+    </state>
+    <state x="-1943" y="104" key="Vcs.Push.Dialog.v2/0.0.1536.824/-2560.-185.2048.1112@-2560.-185.2048.1112" timestamp="1598947371718" />
+    <state x="-1718" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598947417931">
+      <screen x="-2560" y="-185" width="2048" height="1112" />
+    </state>
+    <state x="-1718" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/-2560.-185.2048.1112@-2560.-185.2048.1112" timestamp="1598947417931" />
+    <state x="-1736" y="273" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598947454646">
+      <screen x="-2560" y="-185" width="2048" height="1112" />
+    </state>
+    <state x="-1736" y="273" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824/-2560.-185.2048.1112@-2560.-185.2048.1112" timestamp="1598947454646" />
   </component>
 </project>
