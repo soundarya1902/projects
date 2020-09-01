@@ -5,9 +5,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28886982-f6b9-453f-bcd0-0aba93961616" name="Default Changelist" comment="changed id">
-      <change beforePath="$PROJECT_DIR$/QaClick/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/QaClick/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="28886982-f6b9-453f-bcd0-0aba93961616" name="Default Changelist" comment="changed id" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +52,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598947506829</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="changed id">
+      <created>1598947575014</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598947575014</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,14 +87,14 @@
       <screen x="-2560" y="-185" width="2048" height="1112" />
     </state>
     <state x="-1755" y="113" key="FileChooserDialogImpl/0.0.1536.824/-2560.-185.2048.1112@-2560.-185.2048.1112" timestamp="1598947398852" />
-    <state x="-1943" y="104" key="Vcs.Push.Dialog.v2" timestamp="1598947513238">
+    <state x="-1943" y="104" key="Vcs.Push.Dialog.v2" timestamp="1598947579357">
       <screen x="-2560" y="-185" width="2048" height="1112" />
     </state>
-    <state x="-1943" y="104" key="Vcs.Push.Dialog.v2/0.0.1536.824/-2560.-185.2048.1112@-2560.-185.2048.1112" timestamp="1598947513238" />
-    <state x="-1718" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598947417931">
+    <state x="-1943" y="104" key="Vcs.Push.Dialog.v2/0.0.1536.824/-2560.-185.2048.1112@-2560.-185.2048.1112" timestamp="1598947579357" />
+    <state x="-1718" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598947568142">
       <screen x="-2560" y="-185" width="2048" height="1112" />
     </state>
-    <state x="-1718" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/-2560.-185.2048.1112@-2560.-185.2048.1112" timestamp="1598947417931" />
+    <state x="-1718" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/-2560.-185.2048.1112@-2560.-185.2048.1112" timestamp="1598947568142" />
     <state x="-1736" y="273" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598947454646">
       <screen x="-2560" y="-185" width="2048" height="1112" />
     </state>
